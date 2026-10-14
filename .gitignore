@@ -1,3 +1,9 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# local junk
+.jupyter/
+.jupyter_ystore.db
+.ipynb_checkpoints/
+*.chat
